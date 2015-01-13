@@ -1,2 +1,2 @@
 # complex
-advance depositiory for initial engagements
+advance repository for initial engagements
